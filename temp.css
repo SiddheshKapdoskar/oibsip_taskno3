@@ -1,0 +1,21 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+input{
+  margin-top: 10px;
+}
+
+select{
+  margin-top: 10px;
+}
+
+label{
+  color: #7a7771;
+  margin-top: 10px;
+}
+
+#btn1{
+  margin-top: 10px;
+  width: 190px;
+}
